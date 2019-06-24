@@ -1,0 +1,107 @@
+.container{
+    display: block;
+}
+.div1{
+    width:23%; 
+    
+    color: green;
+    background-color: black;
+    display: inline-block;
+    text-align: center;
+    vertical-align:top;
+   
+   
+
+}
+.div2{
+    width: 33%;
+    
+    vertical-align:top;
+    
+    
+    
+    display: inline-block;
+    text-align:left;
+    padding-left:5px;
+    
+
+}
+.div3{
+   width: 40%; 
+   
+   vertical-align:top;
+   text-align:left;
+   padding: 15px;
+   
+   display: inline-block;
+  
+   
+}
+
+.div12{
+    height: 40%;
+    color:gold;
+    padding-left: 10px;
+    display: inline-block;
+    text-align: center;
+    vertical-align:top;
+    
+}
+.div21{
+    padding-left: 10px;
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    vertical-align:top;
+
+}
+#orderlist{
+    text-align: left;
+    margin-left: 20px;
+    vertical-align:top;
+}
+.trtr{
+    font-size: 15px;
+    font-family: cursive;
+    vertical-align:top;
+
+}
+.psmall{
+    font-size: 14px;
+    vertical-align:top;
+}
+.div31{
+    height: 30%;
+    background-color: rgb(104, 74, 18);
+    display: inline-block;
+    vertical-align:top;
+}
+.div32{
+    height:30%;
+    background-color: rgb(104, 74, 18);
+    display: inline-block;
+    vertical-align:top;
+}
+.div321{
+    
+display: inline-block;
+   width: 48%;
+   background-color: rgb(19, 59, 7);
+   padding-left: 10px;
+   color: white;
+   font-family: fantasy;
+   font-size: 20px;
+   vertical-align:top;
+}
+.div322{
+   
+    
+   width: 45%;
+   background-color:maroon;
+   display: inline-block;
+   padding-left: 10px;
+   color: white;
+   font-family: fantasy;
+   font-size: 20px;
+   vertical-align:top;
+} 
